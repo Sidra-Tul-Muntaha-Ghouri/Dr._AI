@@ -1,0 +1,16 @@
+/* styles.css */
+[data-testid="stSidebar"] {
+    background-color: rgb(173, 222, 239);  /* Change sidebar color here */
+}
+
+[data-testid="stAppViewContainer"] {
+    background-color: lightgray;
+}
+
+h1 {
+    font-size: 2.5em; /* Title size */
+}
+
+p, div, span, button, label {
+    font-size: 1.01em; /* Slightly larger size for other text */
+}
