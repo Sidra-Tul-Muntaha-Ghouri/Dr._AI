@@ -95,8 +95,6 @@ This project is licensed under the MIT License.
 
 Sidra Tul Muntaha - sidratulmuntaha135@gmail.com
 
-Project Link: [https://github.com/your-username/Dr.AI](https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI)
+Project Link: [https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI](https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI)
 
-
-
-Try out @ https://doctorai135.streamlit.app/
+Try out the app @: https://doctorai135.streamlit.app/
