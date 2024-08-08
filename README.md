@@ -1,3 +1,8 @@
+[![License](https://img.shields.io/github/license/Sidra-Tul-Muntaha-Ghouri/Dr._AI)](https://opensource.org/licenses/MIT)
+[![Last Commit](https://img.shields.io/github/last-commit/Sidra-Tul-Muntaha-Ghouri/Dr._AI)](https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI/commits/master)
+![Streamlit Status](https://img.shields.io/badge/Streamlit-Online-brightgreen)
+
+
 # Dr. AI 🩺
 
 ## ℹ️ About the Project
@@ -99,5 +104,8 @@ This project is licensed under the MIT License.
 Sidra Tul Muntaha - sidratulmuntaha135@gmail.com
 
 Project Link: [https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI](https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI)
+
+
+
 
 
