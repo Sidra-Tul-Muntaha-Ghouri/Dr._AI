@@ -27,6 +27,9 @@ Dr. AI offers three main services:
 - **AI Model**: Falcon-180B-chat (via AI71 API)
 - **Environment Management**: dotenv
 
+## Project Demo
+[![Watch Demo](https://img.youtube.com/vi/4xdpSnlEjag/0.jpg)](https://www.youtube.com/watch?v=4xdpSnlEjag)
+
 ## Project Structure
 
 ```
