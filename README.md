@@ -1,10 +1,10 @@
 # Dr. AI 🩺
 
-## About the Project
+## ℹ️ About the Project
 
 Dr. AI is an innovative virtual healthcare assistant developed for the Falcon Hackathon. This project aims to provide personalized health-related services using advanced AI technology, specifically leveraging the Falcon-180B-chat model.
 
-## Features
+## ✨ Features
 
 Dr. AI offers three main services:
 
@@ -20,17 +20,20 @@ Dr. AI offers three main services:
    - Virtual medical consultations
    - Symptom analysis and preliminary advice
 
-## Technology Stack
+## 🧩 Technology Stack
 
 - **Frontend**: Streamlit
 - **Backend**: Python
 - **AI Model**: Falcon-180B-chat (via AI71 API)
 - **Environment Management**: dotenv
 
-## Project Demo
+## 📽️ Project Demo
 [![Watch Demo](https://img.youtube.com/vi/4xdpSnlEjag/0.jpg)](https://www.youtube.com/watch?v=4xdpSnlEjag)
 
-## Project Structure
+## 🔗 Live Link
+Try out the app @: https://doctorai135.streamlit.app/
+
+## 📂 Project Structure
 
 ```
 Dr.AI/
@@ -46,7 +49,7 @@ Dr.AI/
 ├── requirements.txt                             # Python dependencies
 └── styles.css                                   # Custom styles for the app
 ```
-## Setup and Installation
+## 🛠️ Setup and Installation
 
 1. Clone the repository:
 ```
@@ -71,30 +74,30 @@ AI71_API_KEY=your_api_key_here
 ```
 streamlit run Home.py
 ```
-## Usage
+## 🪴 Usage
 
 1. Start the application and navigate to the provided local URL.
 2. Choose the desired service from the sidebar (Diet Planner, Exercise Planner, or General Physician).
 3. Input your personal information and health-related details as prompted.
 4. Interact with the AI assistant through the chat interface to receive personalized advice and plans.
 
-## Contributing
+## 🤝 Contribution
 
 We welcome contributions to Dr. AI! Please feel free to submit issues, fork the repository and send pull requests!
 
-## License
+## 📜 License
 
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙏 Acknowledgments
 
 - This project was created for the Falcon Hackathon
 - Special thanks to AI71 for providing access to the Falcon-180B-chat model
 
-## Contact
+## 📧 Contact
 
 Sidra Tul Muntaha - sidratulmuntaha135@gmail.com
 
 Project Link: [https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI](https://github.com/Sidra-Tul-Muntaha-Ghouri/Dr._AI)
 
-Try out the app @: https://doctorai135.streamlit.app/
+
